@@ -1,0 +1,16 @@
+body {
+    background: rgb(85, 85, 85);
+    color: white;
+}
+
+.App {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5%;
+}
+
+.App-title{
+    font-size: 36px;
+}
