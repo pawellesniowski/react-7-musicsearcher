@@ -14,3 +14,13 @@ body {
 .App-title{
     font-size: 36px;
 }
+
+/* Profile */
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
